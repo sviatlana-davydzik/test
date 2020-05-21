@@ -16,14 +16,4 @@ creating a branch
 
 -----------------------------------
 
-I hope everything is OK
-
-
-____________________
-
-Tomorrow is Friday!
-
----------------------
-
-It was a lovely day
-Even better
+changes in feature branch
